@@ -1,0 +1,3 @@
+.terraform
+aws-iam-authenticator
+eks_key.pem
